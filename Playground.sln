@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Playground", "Playground\Pl
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MatchGame", "MatchGame\MatchGame.csproj", "{8BF82271-8395-4A64-82C6-F53DBFF95A56}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyFirstConsoleApp", "MyFirstConsoleApp\MyFirstConsoleApp.csproj", "{A9024762-6D0E-4CDF-BFD4-5975947C95C2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyFirstConsoleApp", "MyFirstConsoleApp\MyFirstConsoleApp.csproj", "{A9024762-6D0E-4CDF-BFD4-5975947C95C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExperimentWithControls", "ExperimentWithControls\ExperimentWithControls.csproj", "{87EB4A46-EDE1-402A-A903-B702EBD84444}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{A9024762-6D0E-4CDF-BFD4-5975947C95C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A9024762-6D0E-4CDF-BFD4-5975947C95C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A9024762-6D0E-4CDF-BFD4-5975947C95C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87EB4A46-EDE1-402A-A903-B702EBD84444}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87EB4A46-EDE1-402A-A903-B702EBD84444}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87EB4A46-EDE1-402A-A903-B702EBD84444}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87EB4A46-EDE1-402A-A903-B702EBD84444}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
